@@ -1,0 +1,304 @@
+coicop_str,coicop_nop,n_digits,coicop2,coicop3,coicop4,coicop5,coicop2_name,coicop3_name,coicop4_name,coicop5_name
+01.1.1.1,1111,5,1,11,111,1111,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Rice
+01.1.1.2,1112,5,1,11,111,1112,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Flours and other cereals
+01.1.1.3,1113,5,1,11,111,1113,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Bread
+01.1.1.4,1114,5,1,11,111,1114,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Other bakery products
+01.1.1.5,1115,5,1,11,111,1115,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Pizza and quiche
+01.1.1.6,1116,5,1,11,111,1116,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Pasta products and couscous
+01.1.1.7,1117,5,1,11,111,1117,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Breakfast cereals
+01.1.1.8,1118,5,1,11,111,1118,Food And Non-Alcoholic Beverages,Food,Bread and cereals,Other cereal products
+01.1.2.1,1121,5,1,11,112,1121,Food And Non-Alcoholic Beverages,Food,Meat,Beef and veal
+01.1.2.2,1122,5,1,11,112,1122,Food And Non-Alcoholic Beverages,Food,Meat,Pork
+01.1.2.3,1123,5,1,11,112,1123,Food And Non-Alcoholic Beverages,Food,Meat,Lamb and goat
+01.1.2.4,1124,5,1,11,112,1124,Food And Non-Alcoholic Beverages,Food,Meat,Poultry
+01.1.2.5,1125,5,1,11,112,1125,Food And Non-Alcoholic Beverages,Food,Meat,Other meats
+01.1.2.6,1126,5,1,11,112,1126,Food And Non-Alcoholic Beverages,Food,Meat,Edible offal
+01.1.2.7,1127,5,1,11,112,1127,Food And Non-Alcoholic Beverages,Food,Meat,Dried  salted or smoked meat
+01.1.2.8,1128,5,1,11,112,1128,Food And Non-Alcoholic Beverages,Food,Meat,Other meat preparations
+01.1.3.1,1131,5,1,11,113,1131,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Fresh or chilled fish
+01.1.3.2,1132,5,1,11,113,1132,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Frozen fish
+01.1.3.3,1133,5,1,11,113,1133,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Fresh or chilled seafood
+01.1.3.4,1134,5,1,11,113,1134,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Frozen seafood
+01.1.3.5,1135,5,1,11,113,1135,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Dried  smoked or salted fish and seafood
+01.1.3.6,1136,5,1,11,113,1136,Food And Non-Alcoholic Beverages,Food,Fish and seafood,Other preserved or processed fish and seafood-based preparations
+01.1.4.1,1141,5,1,11,114,1141,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Milk  whole  fresh
+01.1.4.2,1142,5,1,11,114,1142,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Milk  low fat  fresh
+01.1.4.3,1143,5,1,11,114,1143,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Milk  preserved
+01.1.4.4,1144,5,1,11,114,1144,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Yoghurt
+01.1.4.5,1145,5,1,11,114,1145,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Cheese and curd
+01.1.4.6,1146,5,1,11,114,1146,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Other milk products
+01.1.4.7,1147,5,1,11,114,1147,Food And Non-Alcoholic Beverages,Food,Milk  cheese and eggs,Eggs
+01.1.5.1,1151,5,1,11,115,1151,Food And Non-Alcoholic Beverages,Food,Oils and fats,Butter
+01.1.5.2,1152,5,1,11,115,1152,Food And Non-Alcoholic Beverages,Food,Oils and fats,Margarine and other vegetable fats
+01.1.5.3,1153,5,1,11,115,1153,Food And Non-Alcoholic Beverages,Food,Oils and fats,Olive oil
+01.1.5.4,1154,5,1,11,115,1154,Food And Non-Alcoholic Beverages,Food,Oils and fats,Other edible oils
+01.1.5.5,1155,5,1,11,115,1155,Food And Non-Alcoholic Beverages,Food,Oils and fats,Other edible animal fats
+01.1.6.1,1161,5,1,11,116,1161,Food And Non-Alcoholic Beverages,Food,Fruit,Fresh or chilled fruit
+01.1.6.2,1162,5,1,11,116,1162,Food And Non-Alcoholic Beverages,Food,Fruit,Frozen fruit
+01.1.6.3,1163,5,1,11,116,1163,Food And Non-Alcoholic Beverages,Food,Fruit,Dried fruit and nuts
+01.1.6.4,1164,5,1,11,116,1164,Food And Non-Alcoholic Beverages,Food,Fruit,Preserved fruit and fruit-based products
+01.1.7.1,1171,5,1,11,117,1171,Food And Non-Alcoholic Beverages,Food,Vegetables,Fresh or chilled vegetables other than potatoes and other tubers
+01.1.7.2,1172,5,1,11,117,1172,Food And Non-Alcoholic Beverages,Food,Vegetables,Frozen vegetables other than potatoes and other tubers
+01.1.7.3,1173,5,1,11,117,1173,Food And Non-Alcoholic Beverages,Food,Vegetables,Dried vegetables  other preserved or processed vegetables
+01.1.7.4,1174,5,1,11,117,1174,Food And Non-Alcoholic Beverages,Food,Vegetables,Potatoes
+01.1.7.5,1175,5,1,11,117,1175,Food And Non-Alcoholic Beverages,Food,Vegetables,Crisps
+01.1.7.6,1176,5,1,11,117,1176,Food And Non-Alcoholic Beverages,Food,Vegetables,Other tubers and products of tuber vegetables
+01.1.8.1,1181,5,1,11,118,1181,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Sugar
+01.1.8.2,1182,5,1,11,118,1182,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Jams  marmalades and honey
+01.1.8.3,1183,5,1,11,118,1183,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Chocolate
+01.1.8.4,1184,5,1,11,118,1184,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Confectionery products
+01.1.8.5,1185,5,1,11,118,1185,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Edible ices and ice cream
+01.1.8.6,1186,5,1,11,118,1186,Food And Non-Alcoholic Beverages,Food,Sugar  jam  honey  chocolate and confectionery,Artificial sugar substitutes
+01.1.9.1,1191,5,1,11,119,1191,Food And Non-Alcoholic Beverages,Food,Food products n.e.c.,Sauces  condiments
+01.1.9.2,1192,5,1,11,119,1192,Food And Non-Alcoholic Beverages,Food,Food products n.e.c.,Salt  spices and culinary herbs
+01.1.9.3,1193,5,1,11,119,1193,Food And Non-Alcoholic Beverages,Food,Food products n.e.c.,Baby food
+01.1.9.4,1194,5,1,11,119,1194,Food And Non-Alcoholic Beverages,Food,Food products n.e.c.,Ready-made meals
+01.1.9.9,1199,5,1,11,119,1199,Food And Non-Alcoholic Beverages,Food,Food products n.e.c.,Other food products n.e.c.
+01.2.1.1,1211,5,1,12,121,1211,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Coffee  tea and cocoa,Coffee
+01.2.1.2,1212,5,1,12,121,1212,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Coffee  tea and cocoa,Tea
+01.2.1.3,1213,5,1,12,121,1213,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Coffee  tea and cocoa,Cocoa and powdered chocolate
+01.2.2.1,1221,5,1,12,122,1221,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Mineral waters  soft drinks  fruit and vegetable juices,Mineral or spring waters
+01.2.2.2,1222,5,1,12,122,1222,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Mineral waters  soft drinks  fruit and vegetable juices,Soft drinks
+01.2.2.3,1223,5,1,12,122,1223,Food And Non-Alcoholic Beverages,Non-alcoholic beverages,Mineral waters  soft drinks  fruit and vegetable juices,Fruit and vegetable juices
+02.1.1.1,2111,5,2,21,211,2111,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Spirits,Spirits and liqueurs
+02.1.1.2,2112,5,2,21,211,2112,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Spirits,Alcoholic soft drinks
+02.1.2.1,2121,5,2,21,212,2121,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Wine,Wine from grapes
+02.1.2.2,2122,5,2,21,212,2122,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Wine,Wine from other fruits
+02.1.2.3,2123,5,2,21,212,2123,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Wine,Fortified wines
+02.1.2.4,2124,5,2,21,212,2124,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Wine,Wine-based drinks
+02.1.3.1,2131,5,2,21,213,2131,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Beer,Lager beer
+02.1.3.2,2132,5,2,21,213,2132,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Beer,Other alcoholic beer
+02.1.3.3,2133,5,2,21,213,2133,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Beer,Low and non-alcoholic beer
+02.1.3.4,2134,5,2,21,213,2134,Alcoholic Beverages  Tobacco And Narcotics,Alcoholic beverages,Beer,Beer-based drinks
+02.2.0.1,2201,5,2,22,220,2201,Alcoholic Beverages  Tobacco And Narcotics,Tobacco,Tobacco,Cigarettes
+02.2.0.2,2202,5,2,22,220,2202,Alcoholic Beverages  Tobacco And Narcotics,Tobacco,Tobacco,Cigars
+02.2.0.3,2203,5,2,22,220,2203,Alcoholic Beverages  Tobacco And Narcotics,Tobacco,Tobacco,Other tobacco products
+02.3.0.0,2300,5,2,23,230,2300,Alcoholic Beverages  Tobacco And Narcotics,Narcotics,Narcotics,Narcotics
+03.1.1.0,3110,5,3,31,311,3110,Clothing And Footwear,Clothing,Clothing materials,Clothing materials
+03.1.2.1,3121,5,3,31,312,3121,Clothing And Footwear,Clothing,Garments,Garments for men
+03.1.2.2,3122,5,3,31,312,3122,Clothing And Footwear,Clothing,Garments,Garments for women
+03.1.2.3,3123,5,3,31,312,3123,Clothing And Footwear,Clothing,Garments,Garments for infants (0 to 2 years) and children (3 to 13 years)
+03.1.3.1,3131,5,3,31,313,3131,Clothing And Footwear,Clothing,Other articles of clothing and clothing accessories,Other articles of clothing
+03.1.3.2,3132,5,3,31,313,3132,Clothing And Footwear,Clothing,Other articles of clothing and clothing accessories,Clothing accessories
+03.1.4.1,3141,5,3,31,314,3141,Clothing And Footwear,Clothing,Cleaning  repair and hire of clothing,Cleaning of clothing
+03.1.4.2,3142,5,3,31,314,3142,Clothing And Footwear,Clothing,Cleaning  repair and hire of clothing,Repair and hire of clothing
+03.2.1.1,3211,5,3,32,321,3211,Clothing And Footwear,Footwear,Shoes and other footwear,Footwear for men
+03.2.1.2,3212,5,3,32,321,3212,Clothing And Footwear,Footwear,Shoes and other footwear,Footwear for women
+03.2.1.3,3213,5,3,32,321,3213,Clothing And Footwear,Footwear,Shoes and other footwear,Footwear for infants and children
+03.2.2.0,3220,5,3,32,322,3220,Clothing And Footwear,Footwear,Repair and hire of footwear,Repair and hire of footwear
+04.1.1.0,4110,5,4,41,411,4110,Housing  Water  Electricity  Gas And Other Fuels,Actual rentals for housing,Actual rentals paid by tenants,Actual rentals paid by tenants
+04.1.2.1,4121,5,4,41,412,4121,Housing  Water  Electricity  Gas And Other Fuels,Actual rentals for housing,Other actual rentals,Actual rentals paid by tenants for secondary residences
+04.1.2.2,4122,5,4,41,412,4122,Housing  Water  Electricity  Gas And Other Fuels,Actual rentals for housing,Other actual rentals,Garage rentals and other rentals paid by tenants
+04.2.1.0,4210,5,4,42,421,4210,Housing  Water  Electricity  Gas And Other Fuels,Imputed rentals for housing,Imputed rentals of owner-occupiers,Imputed rentals of owner-occupiers
+04.2.2.0,4220,5,4,42,422,4220,Housing  Water  Electricity  Gas And Other Fuels,Imputed rentals for housing,Other imputed rentals,Other imputed rentals
+04.3.1.0,4310,5,4,43,431,4310,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Materials for the maintenance and repair of the dwelling,Materials for the maintenance and repair of the dwelling
+04.3.2.1,4321,5,4,43,432,4321,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Services of plumbers
+04.3.2.2,4322,5,4,43,432,4322,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Services of electricians
+04.3.2.3,4323,5,4,43,432,4323,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Maintenance services for heating systems
+04.3.2.4,4324,5,4,43,432,4324,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Services of painters
+04.3.2.5,4325,5,4,43,432,4325,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Services of carpenters
+04.3.2.9,4329,5,4,43,432,4329,Housing  Water  Electricity  Gas And Other Fuels,Maintenance and repair of the dwelling,Services for the maintenance and repair of the dwelling,Other services for maintenance and repair of the dwelling
+04.4.1.0,4410,5,4,44,441,4410,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Water supply,Water supply
+04.4.2.0,4420,5,4,44,442,4420,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Refuse collection,Refuse collection
+04.4.3.0,4430,5,4,44,443,4430,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Sewage collection,Sewage collection
+04.4.4.1,4441,5,4,44,444,4441,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Other services relating to the dwelling n.e.c.,Maintenance charges in multi-occupied buildings
+04.4.4.2,4442,5,4,44,444,4442,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Other services relating to the dwelling n.e.c.,Security services
+04.4.4.9,4449,5,4,44,444,4449,Housing  Water  Electricity  Gas And Other Fuels,Water supply and miscellaneous services relating to the dwelling,Other services relating to the dwelling n.e.c.,Other services related to dwelling
+04.5.1.0,4510,5,4,45,451,4510,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Electricity,Electricity
+04.5.2.1,4521,5,4,45,452,4521,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Gas,Natural gas and town gas
+04.5.2.2,4522,5,4,45,452,4522,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Gas,Liquefied hydrocarbons (butane  propane  etc.)
+04.5.3.0,4530,5,4,45,453,4530,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Liquid fuels,Liquid fuels
+04.5.4.1,4541,5,4,45,454,4541,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Solid fuels,Coal
+04.5.4.9,4549,5,4,45,454,4549,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Solid fuels,Other solid fuels
+04.5.5.0,4550,5,4,45,455,4550,Housing  Water  Electricity  Gas And Other Fuels,Electricity  gas and other fuels,Heat energy,Heat energy
+05.1.1.1,5111,5,5,51,511,5111,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Furniture and furnishings,Household furniture
+05.1.1.2,5112,5,5,51,511,5112,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Furniture and furnishings,Garden furniture
+05.1.1.3,5113,5,5,51,511,5113,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Furniture and furnishings,Lighting equipment
+05.1.1.9,5119,5,5,51,511,5119,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Furniture and furnishings,Other furniture and furnishings
+05.1.2.1,5121,5,5,51,512,5121,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Carpets and other floor coverings,Carpets and rugs
+05.1.2.2,5122,5,5,51,512,5122,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Carpets and other floor coverings,Other floor coverings
+05.1.2.3,5123,5,5,51,512,5123,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Carpets and other floor coverings,Services of laying of fitted carpets and floor coverings
+05.1.3.0,5130,5,5,51,513,5130,Furnishings  Household Equipment And Routine Household Maintenance,Furniture and furnishings  carpets and other floor coverings,Repair of furniture  furnishings and floor coverings,Repair of furniture  furnishings and floor coverings
+05.2.0.1,5201,5,5,52,520,5201,Furnishings  Household Equipment And Routine Household Maintenance,Household textiles,Household textiles,Furnishing fabrics and curtains
+05.2.0.2,5202,5,5,52,520,5202,Furnishings  Household Equipment And Routine Household Maintenance,Household textiles,Household textiles,Bed linen
+05.2.0.3,5203,5,5,52,520,5203,Furnishings  Household Equipment And Routine Household Maintenance,Household textiles,Household textiles,Table linen and bathroom linen
+05.2.0.4,5204,5,5,52,520,5204,Furnishings  Household Equipment And Routine Household Maintenance,Household textiles,Household textiles,Repair of household textiles
+05.2.0.9,5209,5,5,52,520,5209,Furnishings  Household Equipment And Routine Household Maintenance,Household textiles,Household textiles,Other household textiles
+05.3.1.1,5311,5,5,53,531,5311,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Refrigerators  freezers and fridge-freezers
+05.3.1.2,5312,5,5,53,531,5312,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Clothes washing machines  clothes drying machines and dish washing machines
+05.3.1.3,5313,5,5,53,531,5313,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Cookers
+05.3.1.4,5314,5,5,53,531,5314,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Heaters  air conditioners
+05.3.1.5,5315,5,5,53,531,5315,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Cleaning equipment
+05.3.1.9,5319,5,5,53,531,5319,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Major household appliances whether electric or not,Other major household appliances
+05.3.2.1,5321,5,5,53,532,5321,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Small electric household appliances,Food processing appliances
+05.3.2.2,5322,5,5,53,532,5322,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Small electric household appliances,Coffee machines  tea makers and similar appliances
+05.3.2.3,5323,5,5,53,532,5323,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Small electric household appliances,Irons
+05.3.2.4,5324,5,5,53,532,5324,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Small electric household appliances,Toasters and grills
+05.3.2.9,5329,5,5,53,532,5329,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Small electric household appliances,Other small electric household appliances
+05.3.3.0,5330,5,5,53,533,5330,Furnishings  Household Equipment And Routine Household Maintenance,Household appliances,Repair of household appliances,Repair of household appliances
+05.4.0.1,5401,5,5,54,540,5401,Furnishings  Household Equipment And Routine Household Maintenance,Glassware  tableware and household utensils,Glassware  tableware and household utensils,Glassware  crystal-ware  ceramic ware and chinaware
+05.4.0.2,5402,5,5,54,540,5402,Furnishings  Household Equipment And Routine Household Maintenance,Glassware  tableware and household utensils,Glassware  tableware and household utensils,Cutlery  flatware and silverware
+05.4.0.3,5403,5,5,54,540,5403,Furnishings  Household Equipment And Routine Household Maintenance,Glassware  tableware and household utensils,Glassware  tableware and household utensils,Non-electric kitchen utensils and articles
+05.4.0.4,5404,5,5,54,540,5404,Furnishings  Household Equipment And Routine Household Maintenance,Glassware  tableware and household utensils,Glassware  tableware and household utensils,Repair of glassware  tableware and household utensils
+05.5.1.1,5511,5,5,55,551,5511,Furnishings  Household Equipment And Routine Household Maintenance,Tools and equipment for house and garden,Major tools and equipment,Motorized major tools and equipment
+05.5.1.2,5512,5,5,55,551,5512,Furnishings  Household Equipment And Routine Household Maintenance,Tools and equipment for house and garden,Major tools and equipment,Repair  leasing and rental of major tools and equipment
+05.5.2.1,5521,5,5,55,552,5521,Furnishings  Household Equipment And Routine Household Maintenance,Tools and equipment for house and garden,Small tools and miscellaneous accessories,Non-motorized small tools
+05.5.2.2,5522,5,5,55,552,5522,Furnishings  Household Equipment And Routine Household Maintenance,Tools and equipment for house and garden,Small tools and miscellaneous accessories,Miscellaneous small tool accessories
+05.5.2.3,5523,5,5,55,552,5523,Furnishings  Household Equipment And Routine Household Maintenance,Tools and equipment for house and garden,Small tools and miscellaneous accessories,Repair of non-motorized small tools and miscellaneous accessories
+05.6.1.1,5611,5,5,56,561,5611,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Non-durable household goods,Cleaning and maintenance products
+05.6.1.2,5612,5,5,56,561,5612,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Non-durable household goods,Other non-durable small household articles
+05.6.2.1,5621,5,5,56,562,5621,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Domestic services and household services,Domestic services by paid staff
+05.6.2.2,5622,5,5,56,562,5622,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Domestic services and household services,Cleaning services
+05.6.2.3,5623,5,5,56,562,5623,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Domestic services and household services,Hire of furniture and furnishings
+05.6.2.9,5629,5,5,56,562,5629,Furnishings  Household Equipment And Routine Household Maintenance,Goods and services for routine household maintenance,Domestic services and household services,Other domestic services and household services
+06.1.1.0,6110,5,6,61,611,6110,Health,Medical products  appliances and equipment,Pharmaceutical products,Pharmaceutical products
+06.1.2.1,6121,5,6,61,612,6121,Health,Medical products  appliances and equipment,Other medical products,Pregnancy tests and mechanical contraceptive devices
+06.1.2.9,6129,5,6,61,612,6129,Health,Medical products  appliances and equipment,Other medical products,Other medical products n.e.c.
+06.1.3.1,6131,5,6,61,613,6131,Health,Medical products  appliances and equipment,Therapeutic appliances and equipment,Corrective eye-glasses and contact lenses
+06.1.3.2,6132,5,6,61,613,6132,Health,Medical products  appliances and equipment,Therapeutic appliances and equipment,Hearing aids
+06.1.3.3,6133,5,6,61,613,6133,Health,Medical products  appliances and equipment,Therapeutic appliances and equipment,Repair of therapeutic appliances and equipment
+06.1.3.9,6139,5,6,61,613,6139,Health,Medical products  appliances and equipment,Therapeutic appliances and equipment,Other therapeutic appliances and equipment
+06.2.1.1,6211,5,6,62,621,6211,Health,Out-patient services,Medical services,General practice
+06.2.1.2,6212,5,6,62,621,6212,Health,Out-patient services,Medical services,Specialist practice
+06.2.2.0,6220,5,6,62,622,6220,Health,Out-patient services,Dental services,Dental services
+06.2.3.1,6231,5,6,62,623,6231,Health,Out-patient services,Paramedical services,Services of medical analysis laboratories and X-ray centres
+06.2.3.2,6232,5,6,62,623,6232,Health,Out-patient services,Paramedical services,Thermal-baths  corrective-gymnastic therapy  ambulance services and hire of therapeutic equipment
+06.2.3.9,6239,5,6,62,623,6239,Health,Out-patient services,Paramedical services,Other paramedical services
+06.3.0.0,6300,5,6,63,630,6300,Health,Hospital services,Hospital services,Hospital services
+07.1.1.1,7111,5,7,71,711,7111,Transport,Purchase of vehicles,Motor cars,New motor cars
+07.1.1.2,7112,5,7,71,711,7112,Transport,Purchase of vehicles,Motor cars,Second-hand motor cars
+07.1.2.0,7120,5,7,71,712,7120,Transport,Purchase of vehicles,Motor cycles,Motor cycles
+07.1.3.0,7130,5,7,71,713,7130,Transport,Purchase of vehicles,Bicycles,Bicycles
+07.1.4.0,7140,5,7,71,714,7140,Transport,Purchase of vehicles,Animal drawn vehicles,Animal drawn vehicles
+07.2.1.1,7211,5,7,72,721,7211,Transport,Operation of personal transport equipment,Spare parts and accessories for personal transport equipment,Tyres
+07.2.1.2,7212,5,7,72,721,7212,Transport,Operation of personal transport equipment,Spare parts and accessories for personal transport equipment,Spare parts for personal transport equipment
+07.2.1.3,7213,5,7,72,721,7213,Transport,Operation of personal transport equipment,Spare parts and accessories for personal transport equipment,Accessories for personal transport equipment
+07.2.2.1,7221,5,7,72,722,7221,Transport,Operation of personal transport equipment,Fuels and lubricants for personal transport equipment,Diesel
+07.2.2.2,7222,5,7,72,722,7222,Transport,Operation of personal transport equipment,Fuels and lubricants for personal transport equipment,Petrol
+07.2.2.3,7223,5,7,72,722,7223,Transport,Operation of personal transport equipment,Fuels and lubricants for personal transport equipment,Other fuels for personal transport equipment
+07.2.2.4,7224,5,7,72,722,7224,Transport,Operation of personal transport equipment,Fuels and lubricants for personal transport equipment,Lubricants
+07.2.3.0,7230,5,7,72,723,7230,Transport,Operation of personal transport equipment,Maintenance and repair of personal transport equipment,Maintenance and repair of personal transport equipment
+07.2.4.1,7241,5,7,72,724,7241,Transport,Operation of personal transport equipment,Other services in respect of personal transport equipment,Hire of garages  parking spaces and personal transport equipment
+07.2.4.2,7242,5,7,72,724,7242,Transport,Operation of personal transport equipment,Other services in respect of personal transport equipment,Toll facilities and parking meters
+07.2.4.3,7243,5,7,72,724,7243,Transport,Operation of personal transport equipment,Other services in respect of personal transport equipment,Driving lessons  tests  licences and road worthiness tests
+07.3.1.1,7311,5,7,73,731,7311,Transport,Transport services,Passenger transport by railway,Passenger transport by train
+07.3.1.2,7312,5,7,73,731,7312,Transport,Transport services,Passenger transport by railway,Passenger transport by underground and tram
+07.3.2.1,7321,5,7,73,732,7321,Transport,Transport services,Passenger transport by road,Passenger transport by bus and coach
+07.3.2.2,7322,5,7,73,732,7322,Transport,Transport services,Passenger transport by road,Passenger transport by taxi and hired car with driver
+07.3.3.1,7331,5,7,73,733,7331,Transport,Transport services,Passenger transport by air,Domestic flights
+07.3.3.2,7332,5,7,73,733,7332,Transport,Transport services,Passenger transport by air,International flights
+07.3.4.1,7341,5,7,73,734,7341,Transport,Transport services,Passenger transport by sea and inland waterway,Passenger transport by sea
+07.3.4.2,7342,5,7,73,734,7342,Transport,Transport services,Passenger transport by sea and inland waterway,Passenger transport by inland waterway
+07.3.5.0,7350,5,7,73,735,7350,Transport,Transport services,Combined passenger transport,Combined passenger transport
+07.3.6.1,7361,5,7,73,736,7361,Transport,Transport services,Other purchased transport services,Funicular  cable-car and chair-lift transport
+07.3.6.2,7362,5,7,73,736,7362,Transport,Transport services,Other purchased transport services,Removal and storage services
+07.3.6.9,7369,5,7,73,736,7369,Transport,Transport services,Other purchased transport services,Other purchased transport services n.e.c.
+08.1.0.1,8101,5,8,81,810,8101,Communication,Postal services,Postal services,Letter handling services
+08.1.0.9,8109,5,8,81,810,8109,Communication,Postal services,Postal services,Other postal services
+08.2.0.1,8201,5,8,82,820,8201,Communication,Telephone and telefax equipment,Telephone and telefax equipment,Fixed telephone equipment
+08.2.0.2,8202,5,8,82,820,8202,Communication,Telephone and telefax equipment,Telephone and telefax equipment,Mobile telephone equipment
+08.2.0.3,8203,5,8,82,820,8203,Communication,Telephone and telefax equipment,Telephone and telefax equipment,Other equipment of telephone and telefax equipment
+08.2.0.4,8204,5,8,82,820,8204,Communication,Telephone and telefax equipment,Telephone and telefax equipment,Repair of telephone or telefax equipment
+08.3.0.1,8301,5,8,83,830,8301,Communication,Telephone and telefax services,Telephone and telefax services,Wired telephone services
+08.3.0.2,8302,5,8,83,830,8302,Communication,Telephone and telefax services,Telephone and telefax services,Wireless telephone services
+08.3.0.3,8303,5,8,83,830,8303,Communication,Telephone and telefax services,Telephone and telefax services,Internet access provision services
+08.3.0.4,8304,5,8,83,830,8304,Communication,Telephone and telefax services,Telephone and telefax services,Bundled telecommunication services
+08.3.0.5,8305,5,8,83,830,8305,Communication,Telephone and telefax services,Telephone and telefax services,Other information transmission services
+09.1.1.1,9111,5,9,91,911,9111,Recreation And Culture,Audio-visual  photographic and information processing equipment,Equipment for the reception  recording and reproduction of sound and picture,Equipment for the reception  recording and reproduction of sound
+09.1.1.2,9112,5,9,91,911,9112,Recreation And Culture,Audio-visual  photographic and information processing equipment,Equipment for the reception  recording and reproduction of sound and picture,Equipment for the reception  recording and reproduction of sound and vision
+09.1.1.3,9113,5,9,91,911,9113,Recreation And Culture,Audio-visual  photographic and information processing equipment,Equipment for the reception  recording and reproduction of sound and picture,Portable sound and vision devices
+09.1.1.9,9119,5,9,91,911,9119,Recreation And Culture,Audio-visual  photographic and information processing equipment,Equipment for the reception  recording and reproduction of sound and picture,Other equipment for the reception  recording and reproduction of sound and picture
+09.1.2.1,9121,5,9,91,912,9121,Recreation And Culture,Audio-visual  photographic and information processing equipment,Photographic and cinematographic equipment and optical instruments,Cameras
+09.1.2.2,9122,5,9,91,912,9122,Recreation And Culture,Audio-visual  photographic and information processing equipment,Photographic and cinematographic equipment and optical instruments,Accessories for photographic and cinematographic equipment
+09.1.2.3,9123,5,9,91,912,9123,Recreation And Culture,Audio-visual  photographic and information processing equipment,Photographic and cinematographic equipment and optical instruments,Optical instruments
+09.1.3.1,9131,5,9,91,913,9131,Recreation And Culture,Audio-visual  photographic and information processing equipment,Information processing equipment,Personal computers
+09.1.3.2,9132,5,9,91,913,9132,Recreation And Culture,Audio-visual  photographic and information processing equipment,Information processing equipment,Accessories for information processing equipment
+09.1.3.3,9133,5,9,91,913,9133,Recreation And Culture,Audio-visual  photographic and information processing equipment,Information processing equipment,Software
+09.1.3.4,9134,5,9,91,913,9134,Recreation And Culture,Audio-visual  photographic and information processing equipment,Information processing equipment,Calculators and other information processing equipment
+09.1.4.1,9141,5,9,91,914,9141,Recreation And Culture,Audio-visual  photographic and information processing equipment,Recording media,Pre-recorded recording media
+09.1.4.2,9142,5,9,91,914,9142,Recreation And Culture,Audio-visual  photographic and information processing equipment,Recording media,Unrecorded recording media
+09.1.4.9,9149,5,9,91,914,9149,Recreation And Culture,Audio-visual  photographic and information processing equipment,Recording media,Other recording media
+09.1.5.0,9150,5,9,91,915,9150,Recreation And Culture,Audio-visual  photographic and information processing equipment,Repair of audio-visual  photographic and information processing equipment,Repair of audio-visual  photographic and information processing equipment
+09.2.1.1,9211,5,9,92,921,9211,Recreation And Culture,Other major durables for recreation and culture,Major durables for outdoor recreation,Camper vans  caravans and trailers
+09.2.1.2,9212,5,9,92,921,9212,Recreation And Culture,Other major durables for recreation and culture,Major durables for outdoor recreation,Aeroplanes  microlight aircraft  gliders  hang-gliders and hot-air balloons
+09.2.1.3,9213,5,9,92,921,9213,Recreation And Culture,Other major durables for recreation and culture,Major durables for outdoor recreation,Boats  outboard motors and fitting out of boats
+09.2.1.4,9214,5,9,92,921,9214,Recreation And Culture,Other major durables for recreation and culture,Major durables for outdoor recreation,Horses  ponies and accessories
+09.2.1.5,9215,5,9,92,921,9215,Recreation And Culture,Other major durables for recreation and culture,Major durables for outdoor recreation,Major items for games and sport
+09.2.2.1,9221,5,9,92,922,9221,Recreation And Culture,Other major durables for recreation and culture,Musical instruments and major durables for indoor recreation,Musical instruments
+09.2.2.2,9222,5,9,92,922,9222,Recreation And Culture,Other major durables for recreation and culture,Musical instruments and major durables for indoor recreation,Major durables for indoor recreation
+09.2.3.0,9230,5,9,92,923,9230,Recreation And Culture,Other major durables for recreation and culture,Maintenance and repair of other major durables for recreation and culture,Maintenance and repair of other major durables for recreation and culture
+09.3.1.1,9311,5,9,93,931,9311,Recreation And Culture,Other recreational items and equipment  gardens and pets,Games  toys and hobbies,Games and hobbies
+09.3.1.2,9312,5,9,93,931,9312,Recreation And Culture,Other recreational items and equipment  gardens and pets,Games  toys and hobbies,Toys and celebration articles
+09.3.2.1,9321,5,9,93,932,9321,Recreation And Culture,Other recreational items and equipment  gardens and pets,Equipment for sport  camping and open-air recreation,Equipment for sport
+09.3.2.2,9322,5,9,93,932,9322,Recreation And Culture,Other recreational items and equipment  gardens and pets,Equipment for sport  camping and open-air recreation,Equipment for camping and open-air recreation
+09.3.2.3,9323,5,9,93,932,9323,Recreation And Culture,Other recreational items and equipment  gardens and pets,Equipment for sport  camping and open-air recreation,Repair of equipment for sport  camping and open-air recreation
+09.3.3.1,9331,5,9,93,933,9331,Recreation And Culture,Other recreational items and equipment  gardens and pets,Gardens  plants and flowers,Garden products
+09.3.3.2,9332,5,9,93,933,9332,Recreation And Culture,Other recreational items and equipment  gardens and pets,Gardens  plants and flowers,Plants and flowers
+09.3.4.1,9341,5,9,93,934,9341,Recreation And Culture,Other recreational items and equipment  gardens and pets,Pets and related products,Purchase of pets
+09.3.4.2,9342,5,9,93,934,9342,Recreation And Culture,Other recreational items and equipment  gardens and pets,Pets and related products,Products for pets
+09.3.5.0,9350,5,9,93,935,9350,Recreation And Culture,Other recreational items and equipment  gardens and pets,Veterinary and other services for pets,Veterinary and other services for pets
+09.4.1.1,9411,5,9,94,941,9411,Recreation And Culture,Recreational and cultural services,Recreational and sporting services,Recreational and sporting services - Attendance
+09.4.1.2,9412,5,9,94,941,9412,Recreation And Culture,Recreational and cultural services,Recreational and sporting services,Recreational and sporting services - Participation
+09.4.2.1,9421,5,9,94,942,9421,Recreation And Culture,Recreational and cultural services,Cultural services,Cinemas  theatres  concerts
+09.4.2.2,9422,5,9,94,942,9422,Recreation And Culture,Recreational and cultural services,Cultural services,Museums  libraries  zoological gardens
+09.4.2.3,9423,5,9,94,942,9423,Recreation And Culture,Recreational and cultural services,Cultural services,Television and radio licence fees  subscriptions
+09.4.2.4,9424,5,9,94,942,9424,Recreation And Culture,Recreational and cultural services,Cultural services,Hire of equipment and accessories for culture
+09.4.2.5,9425,5,9,94,942,9425,Recreation And Culture,Recreational and cultural services,Cultural services,Photographic services
+09.4.2.9,9429,5,9,94,942,9429,Recreation And Culture,Recreational and cultural services,Cultural services,Other cultural services
+09.4.3.0,9430,5,9,94,943,9430,Recreation And Culture,Recreational and cultural services,Games of chance,Games of chance
+09.5.1.1,9511,5,9,95,951,9511,Recreation And Culture,Newspapers  books and stationery,Books,Fiction books
+09.5.1.2,9512,5,9,95,951,9512,Recreation And Culture,Newspapers  books and stationery,Books,Educational text books
+09.5.1.3,9513,5,9,95,951,9513,Recreation And Culture,Newspapers  books and stationery,Books,Other non-fiction books
+09.5.1.4,9514,5,9,95,951,9514,Recreation And Culture,Newspapers  books and stationery,Books,Binding services and E-book downloads
+09.5.2.1,9521,5,9,95,952,9521,Recreation And Culture,Newspapers  books and stationery,Newspapers and periodicals,Newspapers
+09.5.2.2,9522,5,9,95,952,9522,Recreation And Culture,Newspapers  books and stationery,Newspapers and periodicals,Magazines and periodicals
+09.5.3.0,9530,5,9,95,953,9530,Recreation And Culture,Newspapers  books and stationery,Miscellaneous printed matter,Miscellaneous printed matter
+09.5.4.1,9541,5,9,95,954,9541,Recreation And Culture,Newspapers  books and stationery,Stationery and drawing materials,Paper products
+09.5.4.9,9549,5,9,95,954,9549,Recreation And Culture,Newspapers  books and stationery,Stationery and drawing materials,Other stationery and drawing materials
+09.6.0.1,9601,5,9,96,960,9601,Recreation And Culture,Package holidays,Package holidays,Package domestic holidays
+09.6.0.2,9602,5,9,96,960,9602,Recreation And Culture,Package holidays,Package holidays,Package international holidays
+10.1.0.1,10101,5,10,101,1010,10101,Education,Pre-primary and primary education,Pre-primary and primary education,Pre-primary education
+10.1.0.2,10102,5,10,101,1010,10102,Education,Pre-primary and primary education,Pre-primary and primary education,Primary education
+10.2.0.0,10200,5,10,102,1020,10200,Education,Secondary education,Secondary education,Secondary education
+10.3.0.0,10300,5,10,103,1030,10300,Education,Post-secondary non-tertiary education,Post-secondary non-tertiary education,Post-secondary non-tertiary education
+10.4.0.0,10400,5,10,104,1040,10400,Education,Tertiary education,Tertiary education,Tertiary education
+10.5.0.0,10500,5,10,105,1050,10500,Education,Education not definable by level,Education not definable by level,Education not definable by level
+11.1.1.1,11111,5,11,111,1111,11111,Restaurants And Hotels,Catering services,Restaurants  cafÃ©s and the like,Restaurants  cafÃ©s and dancing establishments
+11.1.1.2,11112,5,11,111,1111,11112,Restaurants And Hotels,Catering services,Restaurants  cafÃ©s and the like,Fast food and take away food services
+11.1.2.0,11120,5,11,111,1112,11120,Restaurants And Hotels,Catering services,Canteens,Canteens
+11.2.0.1,11201,5,11,112,1120,11201,Restaurants And Hotels,Accommodation services,Accommodation services,Hotels  motels  inns and similar accommodation services
+11.2.0.2,11202,5,11,112,1120,11202,Restaurants And Hotels,Accommodation services,Accommodation services,Holiday centres  camping sites  youth hostels and similar accommodation services
+11.2.0.3,11203,5,11,112,1120,11203,Restaurants And Hotels,Accommodation services,Accommodation services,Accommodation services of other establishments
+12.1.1.1,12111,5,12,121,1211,12111,Miscellaneous Goods And Services,Personal care,Hairdressing salons and personal grooming establishments,Hairdressing for men and children
+12.1.1.2,12112,5,12,121,1211,12112,Miscellaneous Goods And Services,Personal care,Hairdressing salons and personal grooming establishments,Hairdressing for women
+12.1.1.3,12113,5,12,121,1211,12113,Miscellaneous Goods And Services,Personal care,Hairdressing salons and personal grooming establishments,Personal grooming treatments
+12.1.2.1,12121,5,12,121,1212,12121,Miscellaneous Goods And Services,Personal care,Electric appliances for personal care,Electric appliances for personal care
+12.1.2.2,12122,5,12,121,1212,12122,Miscellaneous Goods And Services,Personal care,Electric appliances for personal care,Repair of electric appliances for personal care
+12.1.3.1,12131,5,12,121,1213,12131,Miscellaneous Goods And Services,Personal care,Other appliances  articles and products for personal care,Non-electrical appliances
+12.1.3.2,12132,5,12,121,1213,12132,Miscellaneous Goods And Services,Personal care,Other appliances  articles and products for personal care,Articles for personal hygiene and wellness  esoteric products and beauty products
+12.2.0.0,12200,5,12,122,1220,12200,Miscellaneous Goods And Services,Prostitution,Prostitution,Prostitution
+12.3.1.1,12311,5,12,123,1231,12311,Miscellaneous Goods And Services,Personal effects n.e.c.,Jewellery  clocks and watches,Jewellery
+12.3.1.2,12312,5,12,123,1231,12312,Miscellaneous Goods And Services,Personal effects n.e.c.,Jewellery  clocks and watches,Clocks and watches
+12.3.1.3,12313,5,12,123,1231,12313,Miscellaneous Goods And Services,Personal effects n.e.c.,Jewellery  clocks and watches,Repair of jewellery  clocks and watches
+12.3.2.1,12321,5,12,123,1232,12321,Miscellaneous Goods And Services,Personal effects n.e.c.,Other personal effects,Travel goods
+12.3.2.2,12322,5,12,123,1232,12322,Miscellaneous Goods And Services,Personal effects n.e.c.,Other personal effects,Articles for babies
+12.3.2.3,12323,5,12,123,1232,12323,Miscellaneous Goods And Services,Personal effects n.e.c.,Other personal effects,Repair of other personal effects
+12.3.2.9,12329,5,12,123,1232,12329,Miscellaneous Goods And Services,Personal effects n.e.c.,Other personal effects,Other personal effects n.e.c.
+12.4.0.1,12401,5,12,124,1240,12401,Miscellaneous Goods And Services,Social protection,Social protection,Child care services
+12.4.0.2,12402,5,12,124,1240,12402,Miscellaneous Goods And Services,Social protection,Social protection,Retirement homes for elderly persons and residences for disabled persons
+12.4.0.3,12403,5,12,124,1240,12403,Miscellaneous Goods And Services,Social protection,Social protection,Services to maintain people in their private homes
+12.4.0.4,12404,5,12,124,1240,12404,Miscellaneous Goods And Services,Social protection,Social protection,Counselling
+12.5.1.0,12510,5,12,125,1251,12510,Miscellaneous Goods And Services,Insurance,Life insurance,Life insurance
+12.5.2.0,12520,5,12,125,1252,12520,Miscellaneous Goods And Services,Insurance,Insurance connected with the dwelling,Insurance connected with the dwelling
+12.5.3.1,12531,5,12,125,1253,12531,Miscellaneous Goods And Services,Insurance,Insurance connected with health,Public insurance connected with health
+12.5.3.2,12532,5,12,125,1253,12532,Miscellaneous Goods And Services,Insurance,Insurance connected with health,Private insurance connected with health
+12.5.4.1,12541,5,12,125,1254,12541,Miscellaneous Goods And Services,Insurance,Insurance connected with transport,Motor vehicle insurance
+12.5.4.2,12542,5,12,125,1254,12542,Miscellaneous Goods And Services,Insurance,Insurance connected with transport,Travel insurance
+12.5.5.0,12550,5,12,125,1255,12550,Miscellaneous Goods And Services,Insurance,Other insurance,Other insurance
+12.6.1.0,12610,5,12,126,1261,12610,Miscellaneous Goods And Services,Financial services n.e.c.,FISIM,FISIM
+12.6.2.1,12621,5,12,126,1262,12621,Miscellaneous Goods And Services,Financial services n.e.c.,Other financial services n.e.c.,Charges by banks and post offices
+12.6.2.2,12622,5,12,126,1262,12622,Miscellaneous Goods And Services,Financial services n.e.c.,Other financial services n.e.c.,Fees and service charges of brokers  investment counsellors
+12.7.0.1,12701,5,12,127,1270,12701,Miscellaneous Goods And Services,Other services n.e.c.,Other services n.e.c.,Administrative fees
+12.7.0.2,12702,5,12,127,1270,12702,Miscellaneous Goods And Services,Other services n.e.c.,Other services n.e.c.,Legal services and accountancy
+12.7.0.3,12703,5,12,127,1270,12703,Miscellaneous Goods And Services,Other services n.e.c.,Other services n.e.c.,Funeral services
+12.7.0.4,12704,5,12,127,1270,12704,Miscellaneous Goods And Services,Other services n.e.c.,Other services n.e.c.,Other fees and services
